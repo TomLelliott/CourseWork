@@ -16,3 +16,6 @@ RotateY-= VerticalSpeed * Input.GetAxis("Mouse Y"); Referances the mouse positio
 
 transform.eulerAngles = new Vector3(RotateY, RotateX, 0.0f) Tacks the mouse position and updates the new camera position.
 
+10/11/2016
+
+I learned how to resize an object using "transform.localScale" i then usded this to replicate a player crouching by putting it into an "if" statement. this allows me to change and then reset the objects size.
