@@ -1,14 +1,23 @@
 25/10/2016
 Code 3D Movement
 
-Research what code i need to use,
+I need to learn this as it is a key component to almost every game so it is essential I learn this.
+I currently know how to code 2D movement using the Keycode.(Key) line,
+I wish to learn how to use the input manager in order to give more option to the player. 
+
+How
+Research what code I need to use,
 Learn the coding terms,
 Implement & test,
 Submit Pull Request.
 
 30/10/2016
-Operating a First Person Camera With a Mouse
+Operating a First Person Camera with a Mouse
+I want to learn how to do this as I want to understand how the camera works and how to control things with the mouse as this will
+teach me how to reference it as a control.
+I currently know how to use the input manager so i will use this as a starting point.
 
+How
 Research into the input manager and identify the correct references,
 Learn the coding terms and understand what they do,
 Write the code and test it,
@@ -17,6 +26,10 @@ Submit the pull request.
 
 10/11/2016
 Resizing an object to give the illusion of crouching
+I want to learn this as it will help me understand the resizing of objects and it will allow me to make first person games easily.
+I currently know how to reference size so I will need to learn how to code it as an If statement and how to change it back without using a key. 
+
+How
 Research how to reference and change the objects size,
 Learn the coding terms,
 Write and test it,
@@ -25,7 +38,11 @@ Submit the pull request.
 
 18/11/2016
 Activating UI on collision with an object then deactivating after a certain amount of time
+This will allow me to learn about collisions and how UI works letting me create a much more polished product and improving my knowledge of
+unity and the assets I have at hand.
+I currently have no knowledge in this area.
 
+How
 Research how UI works,
 Learn about UI components,
 Learn the coding terms,
@@ -34,7 +51,10 @@ Submit the pull request.
 
 22/11/2016
 Creating a damage component
+Learning this will allow me to create an element of challenge in my games, a core component to many.
+I understand how to create a count which is where I shall star with this component. 
 
+How
 Research the different ways to cause damage,
 Learn the terms,
 Write and test the code,
@@ -44,7 +64,10 @@ Submit pull request.
 
 25/11/2016
 Detecting Triggers
+I have previously used this component but feel I need to brush up my knowledge on how this works.
+I understand how this component works but i need to relearn the terminology.
 
+How
 Research the "OnTriggerEnter" code I have previously written,
 Re-learn the terminology,
 Write and test the code,
@@ -52,7 +75,10 @@ Implement it into my scene.
 
 1/12/2016
 Rigidbody Instantiation and Destroying objects.
+this will make the game feel more real as it will have physics attached to the object.
+I currently have no knowledge on rigidbodys.
 
+How
 Research the Rigidbody component,
 Research the coding terminology,
 Write and test the code,
