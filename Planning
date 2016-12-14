@@ -1,45 +1,60 @@
 25/10/2016
 Code 3D Movement
 
-Reaserch what code i need to use,
+Research what code i need to use,
 Learn the coding terms,
-Impliment & test,
+Implement & test,
 Submit Pull Request.
 
 30/10/2016
 Operating a First Person Camera With a Mouse
 
-Reaserch into the input manager and identify the correct referances,
-learn the coding terms and understand what they do,
-write the code and test it,
-set the perameters for FOV and skybox
-submit the pull request.
+Research into the input manager and identify the correct references,
+Learn the coding terms and understand what they do,
+Write the code and test it,
+Set the parameters for FOV and skybox
+Submit the pull request.
 
 10/11/2016
 Resizing an object to give the illusion of crouching
-
-Reaserch how to referance and change the objects size,
-learn the coding terms,
-wright and test it,
+Research how to reference and change the objects size,
+Learn the coding terms,
+Write and test it,
 Set the size changes to the original and half of the original,
 Submit the pull request.
 
 18/11/2016
-Activating UI on collision with an object then deactivating after a certain amout of time
+Activating UI on collision with an object then deactivating after a certain amount of time
 
-Reaserch how UI works,
+Research how UI works,
 Learn about UI components,
 Learn the coding terms,
-wright and test the code,
-submit the pull request.
+Write and test the code,
+Submit the pull request.
 
 22/11/2016
-Createing a damage component
+Creating a damage component
 
-Reaserch the differnt ways to cause damage,
+Research the different ways to cause damage,
 Learn the terms,
-Wright and test the code,
-wright the heatlth script,
-wright and test,
-submit pull reqest.
+Write and test the code,
+Write the health script,
+Write and test,
+Submit pull request.
+
+25/11/2016
+Detecting Triggers
+
+Research the "OnTriggerEnter" code I have previously written,
+Re-learn the terminology,
+Write and test the code,
+Implement it into my scene.
+
+1/12/2016
+Rigidbody Instantiation and Destroying objects.
+
+Research the Rigidbody component,
+Research the coding terminology,
+Write and test the code,
+Implement it into my scene.
 
