@@ -23,3 +23,7 @@ I learned how to resize an object using "transform.localScale" i then usded this
 18/11/2016
 
 learning how to activate UI on collision with an object then deactivating it after a certain amout of time was quite a challange as i had not used UI before so i was learning about all of the componantes but fortunalty it turned out to be fairly simple all it needed was a "Public GameObject" and "OnCollision" as i had worked with tags priour to this i found the code fairly easy using the "SetActive" comand i was able to toggle when the UI GameObject was visible just adding a simple count to deactivate it. 
+
+25/11/2016
+
+I learned how to code an "OnTriggerEnter" Collision to allow an object to distroy another using tags
