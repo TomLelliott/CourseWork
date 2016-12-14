@@ -30,7 +30,7 @@ Today I learned how to link scripts together and how to active/deactivate them, 
 
 25/11/2016
 
-as i had learned about "onCollisonEnter" last week I wanted to brush up on how to code an "OnTriggerEnter" Collisions as i had not done this in a long time. I needed this to allow an object to destroy another using tags, this was so I could differentiate between objects in the scene as to not accidently remove other assets. I had a little trouble with this as I had forgotten about the "is trigger" tab on the collider but once I had found this everything went smoothly.
+As I had learned about "onCollisonEnter" last week I wanted to brush up on how to code an "OnTriggerEnter" Collisions as i had not done this in a long time. I needed this to allow an object to destroy another using tags, this was so I could differentiate between objects in the scene as to not accidently remove other assets. I had a little trouble with this as I had forgotten about the "is trigger" tab on the collider but once I had found this everything went smoothly.
 
 1/12/2016
 
