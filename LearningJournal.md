@@ -24,11 +24,15 @@ I learned how to resize an object using "transform.localScale"  I then used this
 
 I learning how to activate UI on collision with an object then deactivating it after a certain amount of time, this was quite a challenge as I had not used UI before. I was learning about all of the components but fortunately it turned out to be fairly simple, all it needed was a "Public GameObject" and "OnCollision", as I had worked with tags prior to this I found the code fairly easy using the "SetActive" command I was able to toggle when the UI GameObject was visible just adding a simple count to deactivate it. 
 
+22/11/2016
+
+Today I learned how to link scripts together and how to active/deactivate them, I had decided this would be a nice system to use for a gaming health component. This proved to be a hard task due to the fact I couldn’t find a tutorial that could help me, after a while of searching one of my peers told me about the "GetComponent" code which allowed me to reference script thusly letting me use "setActive" in order to Turn it on and off. I then used a simple count and destroy to kill the player.
+
 25/11/2016
 
 as i had learned about "onCollisonEnter" last week I wanted to brush up on how to code an "OnTriggerEnter" Collisions as i had not done this in a long time. I needed this to allow an object to destroy another using tags, this was so I could differentiate between objects in the scene as to not accidently remove other assets. I had a little trouble with this as I had forgotten about the "is trigger" tab on the collider but once I had found this everything went smoothly.
 
-1/12/16
+1/12/2016
 
 Today I created a rigidbody instantiation script, I had a lot of problems with this as I was struggling to find a comprehensive guide and once I had found one I found it relatively easy to write the base code. I was then having the issue of getting my object to have a force added to it as it was a child object (unity will only give a force if the object has a force itself) but once I had looked online for help I could add force to the object using "playerRotation = GetComponentInParent<Transform>();" which give the object the parents transform data. I then added a force to the instantiated object which i found fairly simple as it was included in the same guide.
 
