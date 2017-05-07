@@ -36,3 +36,18 @@ As I had learned about "onCollisonEnter" last week I wanted to brush up on how t
 
 Today I created a rigidbody instantiation script, I had a lot of problems with this as I was struggling to find a comprehensive guide and once I had found one I found it relatively easy to write the base code. I was then having the issue of getting my object to have a force added to it as it was a child object (unity will only give a force if the object has a force itself) but once I had looked online for help I could add force to the object using "playerRotation = GetComponentInParent<Transform>();" which give the object the parents transform data. I then added a force to the instantiated object which i found fairly simple as it was included in the same guide.
 
+28/2/2017
+
+This task was to create a timer and for this I needed to learn how to referance and store the time and then how to display it using UI elements,  in order to create the trigger which should be death i created a simple colide with a trigger which then allows me to call the other script using "t = GameObject.FindGameObjectWithTag("DeadUI").GetComponent<Timer>();" this allows me to reference another scrpit in the scene and then activate it. I found this incredibly tricky to do as I had no expirience in this area but after reaserching I was able to find the simple code and impliment it. The second script was a lot harder to make as I had never attempted to do this but after help from a student I was able to create a string which I could then reference and display using the UI.
+
+7/3/2017
+
+Today I had to improve my timer, to do this I simply created another string which could be referenced as minutes allowing for much more practical useage.
+
+14/3/2017
+
+For this task I created a simple Tigger, when a mouse button was pressed it would activate the collider which in turn would activate the destroy script.
+
+21/3/2017
+
+This week I was asked to created an instatiaion script in order to place item's such as barracades, I thought this would be quite simple as all I needed was an instatiaion script but tis will only create the object with the same traslation underneath the character so in order to get around this I created an empty game object as a point of refernce and generated the object on this so they will use the translate and rotation data of the parent (the character).
