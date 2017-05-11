@@ -38,11 +38,11 @@ Today I created a rigidbody instantiation script, I had a lot of problems with t
 
 28/2/2017
 
-This task was to create a timer and for this I needed to learn how to referance and store the time and then how to display it using UI elements,  in order to create the trigger which should be death i created a simple colide with a trigger which then allows me to call the other script using "t = GameObject.FindGameObjectWithTag("DeadUI").GetComponent<Timer>();" this allows me to reference another scrpit in the scene and then activate it. I found this incredibly tricky to do as I had no expirience in this area but after reaserching I was able to find the simple code and impliment it. The second script was a lot harder to make as I had never attempted to do this but after help from a student I was able to create a string which I could then reference and display using the UI.
+This task was to create a timer and for this I needed to learn how to reference and store the time and then how to display it using UI elements,  in order to create the trigger which should be death i created a simple collide with a trigger which then allows me to call the other script using "t = GameObject.FindGameObjectWithTag("DeadUI").GetComponent<Timer>();" this allows me to reference another script in the scene and then activate it. I found this incredibly tricky to do as I had no experience in this area but after researching I was able to find the simple code and implement it. The second script was a lot harder to make as I had never attempted to do this but after help from a student I was able to create a string which I could then reference and display using the UI.
 
 7/3/2017
 
-Today I had to improve my timer, to do this I simply created another string which could be referenced as minutes allowing for much more practical useage.
+Today I had to improve my timer, to do this I simply created another string which could be referenced as minutes allowing for much more practical usage.
 
 14/3/2017
 
@@ -50,8 +50,8 @@ For this task I created a simple Trigger, when a mouse button was pressed it wou
 
 21/3/2017
 
-This week I was asked to created an instatiaion script in order to place item's such as barracades, I thought this would be quite simple as all I needed was an instatiaion script but tis will only create the object with the same traslation underneath the character so in order to get around this I created an empty game object as a point of refernce and generated the object on this so they will use the translate and rotation data of the parent (the character).
+This week I was asked to create an instantiation script in order to place item's such as barricades, I thought this would be quite simple as all I needed was an instantiation script but tis will only create the object with the same translation underneath the character so in order to get around this I created an empty game object as a point of reference and generated the object on this so they will use the translate and rotation data of the parent (the character).
 
 9/5/2017
 
-Today I programed a moving platform, I created two empty objects to use as a marker for the platform to travel between, it was a little awkward but after playing with different speeds and learning how to use the correct referenceing everythign worked smoothly.
+Today I programed a moving platform, I created two empty objects to use as a marker for the platform to travel between, it was a little awkward but after playing with different speeds and learning how to use the correct referencing everything worked smoothly
