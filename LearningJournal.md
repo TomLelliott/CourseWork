@@ -46,8 +46,12 @@ Today I had to improve my timer, to do this I simply created another string whic
 
 14/3/2017
 
-For this task I created a simple Tigger, when a mouse button was pressed it would activate the collider which in turn would activate the destroy script.
+For this task I created a simple Trigger, when a mouse button was pressed it would activate the collider which in turn would activate the destroy script.
 
 21/3/2017
 
 This week I was asked to created an instatiaion script in order to place item's such as barracades, I thought this would be quite simple as all I needed was an instatiaion script but tis will only create the object with the same traslation underneath the character so in order to get around this I created an empty game object as a point of refernce and generated the object on this so they will use the translate and rotation data of the parent (the character).
+
+9/5/2017
+
+Today I programed a moving platform, I created two empty objects to use as a marker for the platform to travel between, it was a little awkward but after playing with different speeds and learning how to use the correct referenceing everythign worked smoothly.
